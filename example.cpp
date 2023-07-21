@@ -1,7 +1,4 @@
 
-
-#define PROFILE
-
 #include "openfhe.h"
 
 using namespace lbcrypto;
